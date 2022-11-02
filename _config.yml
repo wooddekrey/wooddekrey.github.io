@@ -28,8 +28,7 @@ twitter_username: wooddekrey
 github_username:  wooddekrey
 
 # Build settings
-# theme: minima
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
